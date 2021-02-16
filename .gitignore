@@ -1,0 +1,14 @@
+*~
+*.py[cod]
+.DS_Store
+
+/venv
+/venv3
+/dist
+/build
+
+.idea/
+.vscode/
+
+/node_modules
+/public/build
